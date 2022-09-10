@@ -51,3 +51,18 @@ def multiply(a,b)
     return(a * b)
 ```
 ---
+**Courses**  
+**I took free
+[WayUp](https://my.wayup.in/)
+courses:**  
++ Web-designer: explosive start  
++ Web-layout designer: the beginning  
+![my skills](/assets/img/courses.jpg)  
++ RS Schools Course «JavaScript/Front-end. Stage 0»  
+
+---
+**Languages:**
++ **English** ELEMENTARY A1+, A2, unfortunately, had no language practice.  
+![my skills in English](/assets/img/languages.png)  
++ **Russian** native speaker.  
++ **Belarusian** native speaker.
