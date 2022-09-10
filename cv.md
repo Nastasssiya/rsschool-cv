@@ -34,3 +34,20 @@ Viber:** `+375 29 764 26 04`
 >No experience in IT. She worked in the service industry as an administrator. I have a great desire to develop in a new field for myself, I want to learn and learn new things.
 
 ---
+**Skills**  
+Basic understanding of HTML and CSS. In the process of learning JavaSkript.  
+
+---
+**Code example**  
+Solving the problem when registering on CODWARS, it was necessary to fix the code for it to work:  
+***Initial value:*** 
+```
+def multiply(a b)  
+            a * b  
+```
+***My decision:***  
+```
+def multiply(a,b)   
+    return(a * b)
+```
+---
